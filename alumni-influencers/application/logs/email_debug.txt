@@ -1,0 +1,5 @@
+Cannot send mail with no "From" header.<br /><pre>
+
+</pre><pre>
+
+</pre>
