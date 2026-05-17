@@ -1,7 +1,7 @@
 # AlumniHub
 
 > **Alumni–Student Engagement Platform.**
-> A full-stack web platform that transforms static alumni listings into a living, self-sustaining marketplace — connecting students with successful graduates through a blind-bidding sponsorship system and a real-time university analytics dashboard.
+> A full-stack web platform that transforms static alumni listings into a living, self-sustaining marketplace connecting students with successful graduates through a blind-bidding sponsorship system and a real-time university analytics dashboard.
 
 ***
 
