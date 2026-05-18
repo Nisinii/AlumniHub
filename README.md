@@ -1,13 +1,14 @@
 # AlumniHub
 
+<img width="1262" height="615" alt="image" src="https://github.com/user-attachments/assets/08c71ca5-b3d8-4a86-9991-140910c7b663" />
 > **Alumni–Student Engagement Platform.**
 > A full-stack web platform that transforms static alumni listings into a living, self-sustaining marketplace connecting students with successful graduates through a blind-bidding sponsorship system and a real-time university analytics dashboard.
 
-<img width="1262" height="615" alt="image" src="https://github.com/user-attachments/assets/08c71ca5-b3d8-4a86-9991-140910c7b663" />
-<img width="1266" height="616" alt="image" src="https://github.com/user-attachments/assets/9dd22330-aa4a-4e2d-a3db-7ff2dcceb5a2" />
-<img width="1265" height="616" alt="image" src="https://github.com/user-attachments/assets/8007a58e-4bdb-4333-ba05-fc6bda59498c" />
-<img width="1265" height="619" alt="image" src="https://github.com/user-attachments/assets/72462040-4efe-41d7-b2aa-f0874446ac22" />
-
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 ***
 
 ## The Concept
@@ -31,6 +32,12 @@ AlumniHub solves this with a dual architecture:
 * **University Analytics Dashboard:** Interactive charts (bar, line, pie, radar, doughnut) visualising alumni career outcomes, skills gaps, certification trends, and programme-level insights — all sourced live from the API.
 * **Public Developer API:** A `GET /alumni/today` endpoint and full Swagger/OpenAPI documentation with interactive UI at `/api-docs`.
 * **Export & Reporting:** CSV/PDF export of filtered alumni data, downloadable chart images, and custom report generation with saved filter presets.
+
+<img width="1280" height="610" alt="image" src="https://github.com/user-attachments/assets/5cbffefc-5a8f-4eeb-a358-705fc4372204" />
+<img width="1264" height="609" alt="image" src="https://github.com/user-attachments/assets/96d90ad9-093e-408c-8256-2af2c0da1ede" />
+<img width="1259" height="614" alt="image" src="https://github.com/user-attachments/assets/0f502c62-8906-4c61-91b1-32ce8750ddf3" />
+<img width="1264" height="614" alt="image" src="https://github.com/user-attachments/assets/3e8db925-54da-4e61-a959-19521b037f9e" />
+<img width="1280" height="608" alt="image" src="https://github.com/user-attachments/assets/d73e35c0-7a07-4d59-8138-bbfa55a17568" />
 
 ***
 
