@@ -3,6 +3,11 @@
 > **Alumni–Student Engagement Platform.**
 > A full-stack web platform that transforms static alumni listings into a living, self-sustaining marketplace connecting students with successful graduates through a blind-bidding sponsorship system and a real-time university analytics dashboard.
 
+<img width="1262" height="615" alt="image" src="https://github.com/user-attachments/assets/08c71ca5-b3d8-4a86-9991-140910c7b663" />
+<img width="1266" height="616" alt="image" src="https://github.com/user-attachments/assets/9dd22330-aa4a-4e2d-a3db-7ff2dcceb5a2" />
+<img width="1265" height="616" alt="image" src="https://github.com/user-attachments/assets/8007a58e-4bdb-4333-ba05-fc6bda59498c" />
+<img width="1265" height="619" alt="image" src="https://github.com/user-attachments/assets/72462040-4efe-41d7-b2aa-f0874446ac22" />
+
 ***
 
 ## The Concept
