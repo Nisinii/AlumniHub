@@ -80,7 +80,7 @@ Follow these steps to set up AlumniHub on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AlumniHub.git
+[git clone https://github.com/YOUR_USERNAME/AlumniHub.git](https://github.com/Nisinii/AlumniHub.git)
 cd AlumniHub
 ```
 
